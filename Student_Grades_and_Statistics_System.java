@@ -1,3 +1,4 @@
+package Student_Grades_and_Statistics_System;
 import java.util.Scanner; 
 import java.util.Arrays;
 public class Student_Grades_and_Statistics_System {
